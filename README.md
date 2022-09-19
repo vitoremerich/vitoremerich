@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Vitor Emerich!</strong>
 
-> Sou estudante de Desenvolvimento Web.
+> Full Stack Developer // React - NodeJs
 
 🔭 Recentemente me tornei um programador Front-End.
 
