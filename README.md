@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Vitor Emerich!</strong>
+## 💜<strong>Vitor Emerich!</strong>
 
 > Full Stack Developer // React - NodeJs
 
