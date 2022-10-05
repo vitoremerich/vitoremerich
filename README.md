@@ -1,8 +1,6 @@
 ## 💜<strong>Vitor Emerich!</strong>
 
-> Full Stack Developer // React - NodeJs
-
-🔭 Recentemente me tornei um programador Front-End.
+> Full Stack Developer
 
 💬 Caso queira entrar em contato comigo essas são minhas redes sociais:
 <code><a href="https://www.linkedin.com/in/vitoremerich/">Linkedin</a></code>
