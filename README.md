@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Python<br>🎯 Goals: Crescer profissionalmente<br>🎲 Fun fact: Odeio Harry Potter</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Python<br>🎯 Goals: Crescer profissionalmente<br>
 
 ###
 
