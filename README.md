@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Vitor, tenho 20 anos e fui estudante de programação na Trybe.</p>
+<p align="left">Me chamo Vitor, tenho 20 anos e sou programador Full Stack</p>
 
 ###
 
