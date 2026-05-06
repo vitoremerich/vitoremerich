@@ -85,11 +85,11 @@ const vitor: Developer = {
 
 <div align="center">
 
-![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitoremerich&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C49A&icon_color=6C63FF)
+![Vitor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitoremerich&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C49A&icon_color=6C63FF&count_private=true&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremerich&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C49A)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitoremerich&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C49A&cache_seconds=1800)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vitoremerich&theme=tokyonight&hide_border=true&background=0d1117&ring=00C49A&fire=6C63FF&currStreakLabel=00C49A)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vitoremerich&theme=tokyonight&hide_border=true&background=0D1117&ring=00C49A&fire=6C63FF&currStreakLabel=00C49A)
 
 </div>
 
